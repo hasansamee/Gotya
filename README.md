@@ -65,7 +65,7 @@ We are using Java and React-native to build the app. It will communicate over Bl
 
 3.    Group people can track any of their members.
 
-4.     BLE devices have battery lasting for more than years. you don’t need to charge them.
+4. BLE devices have battery lasting for more than years. you don’t need to charge them.
 
 
 ## What we learned
