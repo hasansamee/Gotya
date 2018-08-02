@@ -61,11 +61,12 @@ We are using Java and React-native to build the app. It will communicate over Bl
 
 1.    You’ll get the notification the moment you lost your passport.
 
-2.    It is a millisecond job to notify and share your location to your group / maktab mate when you lost them.
+2.    It is a millisecond job to notify and share your location to your group mate when you lost them.
 
-3.    Group / Maktab leader can track any of their members.
+3.    Group people can track any of their members.
 
 4.     BLE devices have battery lasting for more than years. ** you don’t need to charge them**.
+
 
 ## What we learned
  During the development, our focus was to analyse and create mesh network for the device communication, so learning that was a challenge.
