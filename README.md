@@ -53,7 +53,7 @@ We are using Java and React-native to build the app. It will communicate over Bl
 
 ## Challenges we ran into
 
-1.    Meeting 1 ft. proximity precision for finding belongings and group fellow was challenging.
+1.    **Meeting 1 ft. proximity precision for finding belongings and group fellow was challenging.
 
 2.    Making BLE (low energy Bluetooth devices) working in mesh network to make them able to communicate with each other.
 
@@ -65,7 +65,7 @@ We are using Java and React-native to build the app. It will communicate over Bl
 
 3.    Group people can track any of their members.
 
-4.     BLE devices have battery lasting for more than years. ** you don’t need to charge them**.
+4.     BLE devices have battery lasting for more than years. you don’t need to charge them.
 
 
 ## What we learned
